@@ -1,4 +1,4 @@
-CREATE TABLE athlete (
+CREATE TABLE client (
 	id bigserial NOT NULL PRIMARY KEY,
 	first_name character varying [255] NOT NULL,
 	last_name character varying [255] NOT NULL,
